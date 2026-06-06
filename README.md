@@ -3,4 +3,4 @@ A personal portfolio showcasing my skills, projects, and learning journey as a B
 
 
 
-LIVE LINK : https//dhairyaaaportfolio.netlify.app
+LIVE LINK : https://dhairyaaaportfolio.netlify.app
